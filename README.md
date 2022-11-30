@@ -32,8 +32,10 @@ and net salary.
     `Net salary = Gross Salary - Deductions `
 -   `Gross Salary = basic Sallary + Allowances`
 
-
-
+## View Web Page 
+Check the original Week1-Code-Challenge on my github.
+Here is the final result inclusive of all the html and css files
+`source : https://wanjikukim-collab.github.io/Week1-Code-Challenge/ `
 
 
 
